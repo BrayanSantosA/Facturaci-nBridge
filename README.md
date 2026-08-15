@@ -1,4 +1,6 @@
 # Facturación usando el patrón de diseño Bridge
+## UML inicial
+<img width="1183" height="1600" alt="image" src="https://github.com/user-attachments/assets/eba97a2e-9643-42a5-a286-66d2c4a4f10d" />
 
 ## Salida en pantalla
 <img width="535" height="443" alt="image" src="https://github.com/user-attachments/assets/0cae58b8-8641-4285-a024-ae5c2eda2882" />
